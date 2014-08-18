@@ -1,7 +1,17 @@
 # shortstop-resolve
 [![Build Status](https://img.shields.io/travis/jasisk/shortstop-resolve.svg?style=flat)](https://travis-ci.org/jasisk/shortstop-resolve)
 
-Adds resolve support to [shortstop](https://github.com/krakenjs/shortstop).
+## Description
+
+A handler for [shortstop](https://github.com/krakenjs/shortstop) that resolves files relative to a node module or path.
+
+```js
+var handler = resolve(__dirname); // With a basedir
+```
+
+```js
+var handler = resolve(); // Using the caller's directory as a basedir
+```
 
 ## Example
 ``` js
