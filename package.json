@@ -1,6 +1,6 @@
 {
   "name": "shortstop-resolve",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a shortstop resolver like path but for node modules",
   "main": "index.js",
   "scripts": {
