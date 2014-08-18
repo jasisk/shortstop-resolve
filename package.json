@@ -1,0 +1,33 @@
+{
+  "name": "shortstop-resolve",
+  "version": "1.0.0",
+  "description": "a shortstop resolver like path but for node modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jasisk/shortstop-resolve.git"
+  },
+  "keywords": [
+    "shortstop",
+    "shortstop-handler",
+    "resolve"
+  ],
+  "author": "Jean-Charles Sisk <jasisk@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasisk/shortstop-resolve/issues"
+  },
+  "homepage": "https://github.com/jasisk/shortstop-resolve",
+  "devDependencies": {
+    "shortstop": "^1.0.1",
+    "shortstop-handlers": "^1.0.0",
+    "tape": "^2.14.0"
+  },
+  "dependencies": {
+    "caller": "0.0.1",
+    "resolve": "^1.0.0"
+  }
+}
