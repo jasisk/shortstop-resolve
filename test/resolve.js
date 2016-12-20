@@ -1,3 +1,5 @@
+'use strict';
+
 var shortstop = require('shortstop');
 var resolve = require('../');
 var path = require('path');
