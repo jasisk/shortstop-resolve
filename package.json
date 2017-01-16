@@ -24,10 +24,10 @@
   "devDependencies": {
     "shortstop": "^1.0.1",
     "shortstop-handlers": "^1.0.0",
-    "tape": "^2.14.0"
+    "tape": "^4.6.3"
   },
   "dependencies": {
-    "caller": "0.0.1",
+    "caller": "1.0.1",
     "resolve": "^1.0.0"
   }
 }
