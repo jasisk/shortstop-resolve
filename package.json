@@ -1,8 +1,10 @@
 {
   "name": "shortstop-resolve",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a shortstop resolver like path but for node modules",
-  "files": ["index.js"],
+  "files": [
+    "index.js"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "tape test/*.js"
