@@ -27,7 +27,7 @@
   "devDependencies": {
     "shortstop": "^1.0.3",
     "shortstop-handlers": "^1.0.1",
-    "tape": "^5.3.1"
+    "tape": "^4.14.0"
   },
   "dependencies": {
     "caller": "1.0.1",

@@ -1,5 +1,5 @@
 # shortstop-resolve
-[![Build Status](https://img.shields.io/travis/jasisk/shortstop-resolve.svg?style=flat)](https://travis-ci.org/jasisk/shortstop-resolve)
+[![Build Status](https://travis-ci.com/jasisk/shortstop-resolve.svg?branch=master)](https://travis-ci.com/jasisk/shortstop-resolve)
 
 ## Description
 
